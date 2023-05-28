@@ -1,5 +1,5 @@
-#ignore lock file
-*.lock.hcl
+#ignore .exe files
+*.exe
 # Local .terraform directories
 **/.terraform/*
 
